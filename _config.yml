@@ -1,0 +1,28 @@
+name: testwayfay
+favicon: null
+layout_spectrum: 0.8699375584255904
+typography_spectrum: 0.3214086005464196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+  brandStrength: 0.10937428707256913
+  lightness: 0.4201689090114087
+  saturation: 0.72410027240403
+  rhythmicContrast: 0.4242422783281654
+purpose: []
